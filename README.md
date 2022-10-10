@@ -5,13 +5,7 @@
 
 Maak een nieuw Angular project h8-oefening1 in de root directory van deze repository.
 
-Gebruik in deze oefening volgende API url:
-
-```
-https://overwatch-9dba4.firebaseio.com/heroes.json
-```
-
-Of onderstaande JSON file (plaats deze in de assets folder!). Let op, de JSON data heeft een eerder exotische structuur. Denk goed na hoe je hiermee omgaat in de frontend:
+Gebruik in deze onderstaande JSON file (plaats deze in de assets folder!). Let op, de JSON data heeft een eerder exotische structuur. Denk goed na hoe je hiermee omgaat in de frontend:
 ```
 {
 		"heroes":{
